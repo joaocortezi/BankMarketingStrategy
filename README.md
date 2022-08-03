@@ -1,7 +1,7 @@
 # BankMarketingStrategy
 Credit Card Dataset for Clustering - dataset https://www.kaggle.com/datasets/arjunbhasin2013/ccdata
 
-Following is the Data Dictionary for Credit Card dataset :-
+Following is the Data Dictionary for Credit Card dataset: 
 
 * CUSTID : Identification of Credit Card holder (Categorical)
 * BALANCE : Balance amount left in their account to make purchases 
@@ -21,5 +21,3 @@ Following is the Data Dictionary for Credit Card dataset :-
 * MINIMUM_PAYMENTS : Minimum amount of payments made by user
 * PRCFULLPAYMENT : Percent of full payment paid by user
 * TENURE : Tenure of credit card service for user
-
-
